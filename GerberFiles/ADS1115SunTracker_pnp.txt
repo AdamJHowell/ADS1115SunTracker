@@ -1,0 +1,35 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ADS1115SunTracker
+*Date=22:23:06
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;0.5W;trim_pot_pth;15.2851;-29.2982;180;Bottom;R6
+2;;;40.7236;-31.6081;0;Bottom;TXT1
+3;;THT;33.0651;-28.0282;0;Bottom;J3
+4;;;40.718;-26.5185;0;Bottom;TXT2
+5;;photocell-kit;15.2851;-14.5982;90;Bottom;Bottom right
+6;;;40.7236;-29.0487;0;Bottom;TXT2
+7;;;40.6851;-3.89824;0;Bottom;Hole1
+8;;THT;35.6051;-28.0282;0;Bottom;J2
+9;0.5W;trim_pot_pth;7.66507;-6.43824;0;Bottom;R7
+10;;;40.6851;-34.3782;0;Bottom;Hole2
+11;;;2.58507;-11.5182;0;Bottom;Hole3
+12;;;40.718;-23.9915;0;Bottom;TXT2
+13;;photocell-kit;7.66506;-21.1382;-90;Bottom;Top left
+14;0.5W;trim_pot_pth;7.66507;-29.2982;180;Bottom;R5
+15;;;29.8759;-36.8322;0;Bottom;TXT3
+16;0.5W;trim_pot_pth;15.2851;-6.43824;0;Bottom;R8
+17;;;34.6526;-20.4082;90;Bottom;ADS1115
+18;;THT;25.4451;-20.4082;0;Bottom;J1
+19;;photocell-kit;7.66508;-14.5982;90;Bottom;Bottom left
+20;;photocell-kit;15.2851;-21.1382;-90;Bottom;Top right
